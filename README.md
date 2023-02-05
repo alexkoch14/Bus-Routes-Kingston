@@ -1,4 +1,4 @@
-# Bus-Routes-Kingston
+# Bus Routes Kingston
 Planning Bus Routes for the City of Kingston.
 
 # Question 1
