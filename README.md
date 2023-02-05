@@ -7,5 +7,5 @@ Is the bus service accessible to everyone in Kingston (walk, bike, park & ride t
 # Question 2
 Are there some redundant bus routes that can be cancelled?
 
-#Question 3
+# Question 3
 Assume that each driveway has two cars and that all people work in downtown Kingston, how many new bus routes are needed to make people leave their cars at hom
